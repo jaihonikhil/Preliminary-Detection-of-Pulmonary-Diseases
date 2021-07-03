@@ -7,3 +7,4 @@ Data augmentation was employed in the form of audio stretching as well as Vocal 
 Such automation using an inexpensive device removes the dependency on doctors and expensive equipment, which makes the screening programs impractical for large scale implementation today.
 TFCmaster zip contains the CNN code and the app frontend as well. Final Anotations code contains the code to anotate the breath samples which we have received through the hardware.
  
+For Annotating the data: Run the finalannotation.ipynb file
